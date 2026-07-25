@@ -32,6 +32,18 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 </p>
 
 <p align="center">
+  <a href="https://www.youtube.com/watch?v=2k3spTB6YAA">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Latest%20Demo-FF0000?style=for-the-badge&logo=youtube" alt="Watch Latest">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=ggsQCGEYUEs">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-FF0000?style=for-the-badge&logo=youtube" alt="Watch Demo">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://www.youtube.com/watch?v=BWolVSHzfns">
     <img src="https://img.youtube.com/vi/BWolVSHzfns/hqdefault.jpg" width="31%" alt="Demo 3">
   </a>
@@ -45,7 +57,21 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
   </a>
 </p>
 
-**Latest version first** — click any preview to watch on YouTube.
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BWolVSHzfns">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch-FF0000?style=flat-square&logo=youtube" alt="Watch">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=FnLoExbmZck">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch-FF0000?style=flat-square&logo=youtube" alt="Watch">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/watch?v=H00VT4ZIjmY">
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Watch-FF0000?style=flat-square&logo=youtube" alt="Watch">
+  </a>
+</p>
+
+**Click any preview or button to watch on YouTube** (newest version first)
 
 ---
 
