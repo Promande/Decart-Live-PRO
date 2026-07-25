@@ -93,8 +93,16 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 **Official website:**  
 [https://sdcourse.tb.ru/lucy-edit-decart-ai](https://sdcourse.tb.ru/lucy-edit-decart-ai)
 
+<a href="https://sdcourse.tb.ru/lucy-edit-decart-ai">
+  <img src="https://img.shields.io/badge/BUY%20NOW-Website-0A66C2?style=for-the-badge&logo=google-chrome" alt="Buy on Website">
+</a>
+
 **Contact on Telegram:**  
 [https://t.me/R2D2Human](https://t.me/R2D2Human)
+
+<a href="https://t.me/R2D2Human">
+  <img src="https://img.shields.io/badge/Telegram-Write%20to%20Us-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
+</a>
 
 After purchase you receive:
 - Ready-to-run software (Windows)
@@ -115,6 +123,10 @@ We also offer:
 - Custom solutions for your projects
 
 **Contact us on Telegram:** [https://t.me/R2D2Human](https://t.me/R2D2Human)
+
+<a href="https://t.me/R2D2Human">
+  <img src="https://img.shields.io/badge/Telegram-Contact%20for%20Services-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram Services">
+</a>
 
 ---
 
