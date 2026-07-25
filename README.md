@@ -103,7 +103,8 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 
 > **Watermark note:**  
 > Free API has watermarks on most models. **Restyle 2** works without watermark even on Free API.  
-> **PRO license** removes watermarks completely on all models and in all countries.
+> **PRO license** removes watermarks completely on all models and in all countries.  
+> Even if you are in a sanctioned country — we can still help you remove watermarks. We have working solutions for users worldwide, including special APIs and verified accounts.
 
 ---
 
