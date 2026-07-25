@@ -90,19 +90,19 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 
 ### 📊 Free vs PRO Comparison
 
-| Feature                        | Free / Demo                          | **PRO (Licensed)**              |
-|--------------------------------|--------------------------------------|---------------------------------|
-| 🎬 Real-time face & body swap   | ✅ Limited                           | ✅ Full                         |
-| 🎨 Anime & full-body transforms | ❌                                   | ✅                              |
-| 📷 Virtual camera               | ✅                                   | ✅                              |
-| 🚫 Watermarks                   | Yes (except Restyle 2)               | ❌ **No watermarks anywhere**  |
-| 🔑 Multi-API / Organizations    | ❌                                   | ✅                              |
-| 📈 Regular updates              | ❌                                   | ✅                              |
-| 🧭 Priority support             | ❌                                   | ✅                              |
-| 📦 Ready-to-use Windows build   | ❌                                   | ✅                              |
+| Feature                        | Free / Demo                          | **PRO (Licensed)**                    |
+|--------------------------------|--------------------------------------|---------------------------------------|
+| 🎬 Real-time face & body swap   | ✅ Limited                           | ✅ Full                               |
+| 🎨 Anime & full-body transforms | ❌                                   | ✅                                    |
+| 📷 Virtual camera               | ✅                                   | ✅                                    |
+| 🚫 No watermarks               | Only on Restyle 2                    | ✅ **No watermarks on all models**   |
+| 🔑 Multi-API / Organizations    | ❌                                   | ✅                                    |
+| 📈 Regular updates              | ❌                                   | ✅                                    |
+| 🧭 Priority support             | ❌                                   | ✅                                    |
+| 📦 Ready-to-use Windows build   | ❌                                   | ✅                                    |
 
 > **Watermark note:**  
-> Free API has watermarks on most models. **Restyle 2** is the only model without watermark on Free API.  
+> Free API has watermarks on most models. **Restyle 2** works without watermark even on Free API.  
 > **PRO license** removes watermarks completely on all models and in all countries.
 
 ---
