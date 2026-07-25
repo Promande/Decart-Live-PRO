@@ -88,6 +88,21 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 
 ---
 
+### 📊 Free vs PRO Comparison
+
+| Feature                        | Free / Demo      | **PRO**              |
+|--------------------------------|------------------|----------------------|
+| 🎬 Real-time face & body swap   | ✅ Limited       | ✅ Full               |
+| 🎨 Anime & full-body transforms | ❌               | ✅                   |
+| 📷 Virtual camera               | ✅               | ✅                   |
+| 🚫 Watermarks                   | ✅ Yes           | ❌ **No watermarks** |
+| 🔑 Multi-API / Organizations    | ❌               | ✅                   |
+| 📈 Regular updates              | ❌               | ✅                   |
+| 🧭 Priority support             | ❌               | ✅                   |
+| 📦 Ready-to-use Windows build   | ❌               | ✅                   |
+
+---
+
 ### 🛒 Get Decart Live PRO
 
 **Official website:**  
@@ -104,11 +119,16 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
   <img src="https://img.shields.io/badge/Telegram-Write%20to%20Us-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
 </a>
 
-After purchase you receive:
-- Ready-to-run software (Windows)
-- Setup instructions
-- Access to updates
+#### 📦 What you get after purchase
+
+- Ready-to-run Windows software
+- Full setup instructions
+- Access to all future updates
 - Priority support
+- No watermarks + multi-API support
+
+> **Alternative payment methods:**  
+> If payment on the website does not work for any reason, just write to us on **Telegram** — we will help you pay by another method (crypto, transfer, etc.).
 
 ---
 
@@ -136,3 +156,20 @@ This is a **commercial** product.
 The source code is proprietary and is distributed only to licensed customers.
 
 All rights reserved. © Decart Live PRO
+
+---
+
+<p align="center">
+  <a href="https://sdcourse.tb.ru/lucy-edit-decart-ai">
+    <img src="https://img.shields.io/badge/BUY%20NOW-Decart%20Live%20PRO-blue?style=for-the-badge&logo=github" alt="Buy Now">
+  </a>
+  &nbsp;
+  <a href="https://t.me/R2D2Human">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Us-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+</p>
+
+<p align="center">
+  <b>Having trouble paying on the website?</b><br>
+  Just message us on Telegram — we accept alternative payment methods.
+</p>
