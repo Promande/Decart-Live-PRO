@@ -19,6 +19,36 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 
 ---
 
+### Watch Demo Videos
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2k3spTB6YAA">
+    <img src="https://img.youtube.com/vi/2k3spTB6YAA/hqdefault.jpg" width="48%" alt="Latest Demo">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=ggsQCGEYUEs">
+    <img src="https://img.youtube.com/vi/ggsQCGEYUEs/hqdefault.jpg" width="48%" alt="Demo 2">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BWolVSHzfns">
+    <img src="https://img.youtube.com/vi/BWolVSHzfns/hqdefault.jpg" width="31%" alt="Demo 3">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=FnLoExbmZck">
+    <img src="https://img.youtube.com/vi/FnLoExbmZck/hqdefault.jpg" width="31%" alt="Demo 4">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=H00VT4ZIjmY">
+    <img src="https://img.youtube.com/vi/H00VT4ZIjmY/hqdefault.jpg" width="31%" alt="Demo 5">
+  </a>
+</p>
+
+**Latest version first** — click any preview to watch on YouTube.
+
+---
+
 ### Key Features
 
 - Real-time face swap + body transformation
