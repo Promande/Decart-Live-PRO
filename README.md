@@ -4,57 +4,57 @@
 
 Powered by **Lucy 2.5** from Decart AI
 
-Изменяй лицо, тело, одежду, фон и стиль в реальном времени прямо во время стрима.  
-Работает с **OBS**, Zoom, Telegram, Twitch, YouTube и виртуальной камерой.
+Transform your face, body, outfit, background and style in real time while streaming.  
+Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camera.
 
 ---
 
-### Что умеет Decart Live PRO
+### Key Features
 
-- Реалтайм face swap + body transformation
-- Аниме и full-body трансформации
-- Высокое качество (освещение, волосы, отражения в очках)
-- Виртуальная камера из коробки
-- Без вотермарков
-- Поддержка нескольких API-ключей и организаций
-- Готовые сборки под Windows
-- Регулярные обновления и поддержка
+- Real-time face swap + body transformation
+- Anime and full-body transformations
+- High-quality results (lighting, hair physics, glasses reflections)
+- Built-in virtual camera
+- No watermarks
+- Multi-API key & organization support
+- Ready-to-use Windows builds
+- Regular updates and support
 
 ---
 
-### Купить Decart Live PRO
+### Get Decart Live PRO
 
-**Официальный сайт:**  
+**Official website:**  
 [https://sdcourse.tb.ru/lucy-edit-decart-ai](https://sdcourse.tb.ru/lucy-edit-decart-ai)
 
-**Написать в Telegram:**  
+**Contact on Telegram:**  
 [https://t.me/R2D2Human](https://t.me/R2D2Human)
 
-После оплаты вы получаете:
-- Готовую программу (Windows)
-- Инструкции по запуску
-- Доступ к обновлениям
-- Поддержку
+After purchase you receive:
+- Ready-to-run software (Windows)
+- Setup instructions
+- Access to updates
+- Support
 
 ---
 
-### Дополнительные услуги
+### Additional Services
 
-Мы также предлагаем:
+We also offer:
 
-- **Кастомная разработка** и доработка под ваши задачи
-- **Верификация аккаунтов** Decart
-- **Верифицированные / организационные API** с кредитами
-- Настройка под стриминг, OBS и Zoom
-- Индивидуальные решения под проекты
+- **Custom development** and modifications tailored to your needs
+- **Account verification** for Decart
+- **Verified / organizational API keys** with credits
+- Streaming setup assistance (OBS, Zoom, etc.)
+- Custom solutions for your projects
 
-Напишите в Telegram — обсудим задачу.
+Message us on Telegram to discuss your requirements.
 
 ---
 
-### Важно
+### Important
 
-Это **коммерческая** версия.  
-Исходный код не является открытым и распространяется только покупателям.
+This is a **commercial** product.  
+The source code is proprietary and is distributed only to licensed customers.
 
 All rights reserved. © Decart Live PRO
