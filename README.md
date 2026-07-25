@@ -1,2 +1,60 @@
-# Decart-Live-PRO
-Professional real-time AI face &amp; body transformation for live streaming. Commercial Decart Live PRO powered by Lucy 2.5. Private API, verified accounts &amp; custom development.
+# Decart Live PRO
+
+**Professional real-time AI face & body transformation for live streaming**
+
+Powered by **Lucy 2.5** from Decart AI
+
+Изменяй лицо, тело, одежду, фон и стиль в реальном времени прямо во время стрима.  
+Работает с **OBS**, Zoom, Telegram, Twitch, YouTube и виртуальной камерой.
+
+---
+
+### Что умеет Decart Live PRO
+
+- Реалтайм face swap + body transformation
+- Аниме и full-body трансформации
+- Высокое качество (освещение, волосы, отражения в очках)
+- Виртуальная камера из коробки
+- Без вотермарков
+- Поддержка нескольких API-ключей и организаций
+- Готовые сборки под Windows
+- Регулярные обновления и поддержка
+
+---
+
+### Купить Decart Live PRO
+
+**Официальный сайт:**  
+[https://sdcourse.tb.ru/lucy-edit-decart-ai](https://sdcourse.tb.ru/lucy-edit-decart-ai)
+
+**Написать в Telegram:**  
+[https://t.me/R2D2Human](https://t.me/R2D2Human)
+
+После оплаты вы получаете:
+- Готовую программу (Windows)
+- Инструкции по запуску
+- Доступ к обновлениям
+- Поддержку
+
+---
+
+### Дополнительные услуги
+
+Мы также предлагаем:
+
+- **Кастомная разработка** и доработка под ваши задачи
+- **Верификация аккаунтов** Decart
+- **Верифицированные / организационные API** с кредитами
+- Настройка под стриминг, OBS и Zoom
+- Индивидуальные решения под проекты
+
+Напишите в Telegram — обсудим задачу.
+
+---
+
+### Важно
+
+Это **коммерческая** версия.  
+Исходный код не является открытым и распространяется только покупателям.
+
+All rights reserved. © Decart Live PRO
