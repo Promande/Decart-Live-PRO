@@ -19,7 +19,7 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 
 ---
 
-### Watch Demo Videos
+### 🎬 Watch Demo Videos
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=2k3spTB6YAA">
@@ -75,7 +75,7 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 
 ---
 
-### Key Features
+### ✨ Key Features
 
 - Real-time face swap + body transformation
 - Anime and full-body transformations
@@ -88,7 +88,7 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 
 ---
 
-### Get Decart Live PRO
+### 🛒 Get Decart Live PRO
 
 **Official website:**  
 [https://sdcourse.tb.ru/lucy-edit-decart-ai](https://sdcourse.tb.ru/lucy-edit-decart-ai)
@@ -112,7 +112,7 @@ After purchase you receive:
 
 ---
 
-### Additional Services
+### 🛠️ Additional Services
 
 We also offer:
 
@@ -130,7 +130,7 @@ We also offer:
 
 ---
 
-### Important
+### ⚠️ Important
 
 This is a **commercial** product.  
 The source code is proprietary and is distributed only to licensed customers.
