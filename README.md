@@ -7,6 +7,16 @@ Powered by **Lucy 2.5** from Decart AI
 Transform your face, body, outfit, background and style in real time while streaming.  
 Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camera.
 
+<p align="center">
+  <a href="https://sdcourse.tb.ru/lucy-edit-decart-ai">
+    <img src="https://img.shields.io/badge/BUY%20NOW-Decart%20Live%20PRO-blue?style=for-the-badge&logo=github" alt="Buy Now">
+  </a>
+  &nbsp;
+  <a href="https://t.me/R2D2Human">
+    <img src="https://img.shields.io/badge/Telegram-Contact%20Us-26A5E4?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+</p>
+
 ---
 
 ### Key Features
@@ -15,7 +25,7 @@ Works seamlessly with **OBS**, Zoom, Telegram, Twitch, YouTube and virtual camer
 - Anime and full-body transformations
 - High-quality results (lighting, hair physics, glasses reflections)
 - Built-in virtual camera
-- No watermarks
+- **No watermarks**
 - Multi-API key & organization support
 - Ready-to-use Windows builds
 - Regular updates and support
@@ -34,7 +44,7 @@ After purchase you receive:
 - Ready-to-run software (Windows)
 - Setup instructions
 - Access to updates
-- Support
+- Priority support
 
 ---
 
@@ -48,7 +58,7 @@ We also offer:
 - Streaming setup assistance (OBS, Zoom, etc.)
 - Custom solutions for your projects
 
-Message us on Telegram to discuss your requirements.
+**Contact us on Telegram:** [https://t.me/R2D2Human](https://t.me/R2D2Human)
 
 ---
 
